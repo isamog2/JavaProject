@@ -55,4 +55,4 @@ Let's make the digital grocery landscape greener together! 🌍💚
 Contact me at isamoraesgomes@gmail.com
 ---
 
-[Your GitHub Profile Link or LinkedIn Profile Link]
+[[LinkedIn](https://www.linkedin.com/in/isabellamoraes/)
