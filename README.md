@@ -4,7 +4,7 @@ Hello and welcome to my Number Guessing Game repository! My name is Isabella, I'
 I've written this little Java Number Guessing Game 🚀, motivated by my love for Picnic's innovative approach to groceries 🛒 and their sustainable app-only service.
 
 ## About Me 🙋‍♂️
-I graduated in Braizl, in Nutritional Sciences with focus in sustainable food systems. There I was in intern for United Nations NGO's (you will see a recommendation letter on my CV) as "communications officer" - basically their tech savy assistant. That's where I started diving into WordPress website creation.
+I graduated in Brazil, in Nutritional Sciences with focus in sustainable food systems. There I was in intern for United Nations NGO's (you will see a recommendation letter on my CV) as "communications officer" - basically their tech savy assistant. That's where I started diving into WordPress website creation.
 
 After moving to the Netherlands 2.5 years ago, I started as a live support agent on the tech scale-up TicketSwap. There I quickly became lead and was awarded MVP of the Company due to how deep I dived into the project, 
 giving trainings for all departments and running that extra-mile for customer happiness. I spent so much time with the developers there, that I decided to become a developer myself.
